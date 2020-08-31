@@ -2,10 +2,9 @@
 
 - ✨ I'm from Kyrgyzstan
 - ⚡ I study at ITMO University
-- 💬 .Net developer
+- 💬 I'm a C# .Net developer
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neevink)](https://github.com/anuraghazra/github-readme-stats)
-<br>
 ![Kirill's github stats](https://github-readme-stats.vercel.app/api?username=neevink&show_icons=true)
 <!--
 **neevink/neevink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
