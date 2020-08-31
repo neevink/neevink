@@ -1,10 +1,7 @@
 ### Hi! I'm Neevin Kirill 👋
 
-- 👯 I'm from Kyrgyzstan
-- 🤓 I'm Java Advocate (a.k.a. Evangelist)
-- 💬 Let's talk about Software Architecture, Java, Security, Development Patterns.
-- 🏆 I'm an avid improver. Continuously learning how to make the world better.
-- Originally from **Medellin** 🇨🇴, now based in **Amsterdam** 🇳🇱
+- 🌱 I'm from Kyrgyzstan
+
 
 <!--
 **neevink/neevink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,4 +18,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Some of my Github Stats
-[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=pedes&layout=compact)](https://github.com/pedes/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=neevink)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=neevink&layout=compact)](https://github.com/pedes/github-readme-stats)
