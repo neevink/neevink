@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Some of my Github Stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=neevink)](https://github.com/neevink/github-readme-stats)
+![Kirill's github stats](https://github-readme-stats.vercel.app/api?username=neevink&show_icons=true&theme=dark
+
 [![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=neevink&layout=compact)](https://github.com/neevink/github-readme-stats)
