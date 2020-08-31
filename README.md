@@ -1,7 +1,10 @@
 ### Hi! I'm Neevin Kirill 👋
 
-- 🌱 I'm from Kyrgyzstan
+- ✨ I'm from Kyrgyzstan
+- ⚡ I study at ITMO University
+- 💬 .Net developer
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neevink)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **neevink/neevink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ## Some of my Github Stats
 ![Kirill's github stats](https://github-readme-stats.vercel.app/api?username=neevink&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neevink)](https://github.com/anuraghazra/github-readme-stats)
