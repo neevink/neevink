@@ -1,4 +1,4 @@
-### Hi! I'm Neevin Kirill 👋😄
+# Hi! I'm Neevin Kirill 👋😄
 
 - ✨ I'm from Kyrgyzstan
 - ⚡ I study at ITMO University
