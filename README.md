@@ -1,5 +1,7 @@
 # Hi! I'm Neevin Kirill 👋😄
 
+<img src=https://badges.pufler.dev/years/neevink alt=neevink/>
+  
 - ✨ I'm from Kyrgyzstan
 - ⚡ I study at ITMO University
 - 💬 I'm a C# .Net developer
