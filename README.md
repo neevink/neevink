@@ -1,17 +1,21 @@
-# Hello! I'm Neevin Kirill 👋
+# Hello! My name Kirill Neevin 👋
 
-[![Years Badge](https://badges.pufler.dev/years/neevink)](https://badges.pufler.dev)
 [![Visits Badge](https://badges.pufler.dev/visits/neevink/neevink)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/neevink)](https://badges.pufler.dev)
-
-- 💬 I just like to program and learn new things
-- ✨ I am from Kyrgyzstan
-- 🔭 I currently study at ITMO University
+[![Commits Badge](https://badges.pufler.dev/repos/neevink)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/neevink)](https://badges.pufler.dev)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neevink)
 
-![Kirill's github stats](https://github-readme-stats.vercel.app/api?username=neevink&show_icons=true)
+- 🌱 I’m currently learning Python
+- 🔭 I study at ITMO University
+- 🤔 I’m currently working as a Python Backend developer in Yandex, Russia
+- 📫 To reach me write to [telegram](https://t.me/neevin)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neevink&layout=compact&langs_count=6&theme=dracula)
+
+![Kirill's github stats](https://github-readme-stats.vercel.app/api?username=neevink&count_private=true&show_icons=true&theme=dracula)
 
 <!--
 **neevink/neevink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
