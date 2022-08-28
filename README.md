@@ -1,16 +1,10 @@
-# Hello! My name Kirill Neevin 👋
+# Hello! My name is Kirill Neevin 👋
 
-[![Visits Badge](https://badges.pufler.dev/visits/neevink/neevink)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/neevink)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/repos/neevink)](https://badges.pufler.dev)
-[![Years Badge](https://badges.pufler.dev/years/neevink)](https://badges.pufler.dev)
-
-
-
-- 🌱 I’m currently learning Python
+- 🤔 I’m currently working as a Python/Go developer in [Yandex.Cloud](https://cloud.yandex.com/en)
+- 🌱 I’m currently learning k8s and SaltStack
 - 🔭 I study at ITMO University
-- 🤔 I’m currently working as a Python Backend developer in Yandex, Russia
-- 📫 To reach me write to [telegram](https://t.me/neevin)
+- ⚡ Fun fact: In my free time, I enjoy skateboarding and playing board games.
+- 💬 To reach me write in [telegram](https://t.me/neevin)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neevink&layout=compact&langs_count=6&theme=dracula)
